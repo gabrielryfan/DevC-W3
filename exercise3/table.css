@@ -1,0 +1,4 @@
+table {margin-left:100px; text-align:center; border-collapse:collapse;}
+td, th {padding:50px; }
+th {color:black; background-color:rgb(240, 255, 106); font-family:'Times New Roman', Times, serif;}
+tr:nth-child(even) {background: rgb(36, 226, 52)}
